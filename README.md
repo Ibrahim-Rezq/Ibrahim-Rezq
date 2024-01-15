@@ -14,7 +14,6 @@
 Passionate JavaScript Engineer skilled in React, Next.js, and Node.js. Thrives in fast-paced environments, excels in teamwork, and seeks to contribute to innovative web development projects. Eager to join a dynamic team and push the boundaries of technology.
 </p> 
 
-- 
 * 🌍 Living  in Egypt 
 * 🖥 Check out my portfolio at [My Portfolio](http://saifmohamedsv.github.io)
 * ✉️ Reach out to me at [saifmohamed.dev@gmail.com](mailto:saifmohamed.dev@gmail.com)
