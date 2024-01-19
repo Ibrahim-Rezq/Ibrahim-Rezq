@@ -15,8 +15,8 @@ Passionate JavaScript Engineer skilled in React, Next.js, and Node.js. Thrives i
 </p> 
 
 * 🌍 Living  in Egypt 
-* 🖥 Check out my portfolio at [My Portfolio](http://saifmohamedsv.github.io)
-* ✉️ Reach out to me at [saifmohamed.dev@gmail.com](mailto:saifmohamed.dev@gmail.com)
+* 🖥 Check out my portfolio at [My Portfolio]()
+* ✉️ Reach out to me at [ovic391@gmail.com](ovic391)
 * 🤝 Open to collaborating on interesting projects
 * 💬 Chat with me about anything related to web development.
 * ⚡ Programmer all day, every day.
