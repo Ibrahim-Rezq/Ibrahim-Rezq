@@ -16,7 +16,7 @@ Passionate JavaScript Engineer skilled in React, Next.js, and Node.js. Thrives i
 
 * 🌍 Living  in Egypt 
 * 🖥 Check out my portfolio at [My Portfolio]()
-* ✉️ Reach out to me at [ovic391@gmail.com](ovic391@gmail.com)
+* ✉️ Reach out to me at [ovic391@gmail.com](mailto:ovic391@gmail.com)
 * 🤝 Open to collaborating on interesting projects
 * 💬 Chat with me about anything related to web development.
 * ⚡ Programmer all day, every day.
