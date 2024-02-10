@@ -16,7 +16,7 @@ Passionate Front-end Engineer skilled in React, Next.js, and Node.js. Thrives in
 
 * 🌍 Living  in Egypt 
 * 🖥 Check out my portfolio at [My Portfolio](https://ibrahim-amin.vercel.app/)
-* ✉️ Reach out to me at [ovic391@gmail.com](mailto:ovic391@gmail.com)
+* ✉️ Reach out to me at [ebrahimamin391@gmail.com](mailto:ebrahimamin391@gmail.com)
 * 🤝 Open to collaborating on interesting projects
 * 💬 Chat with me about anything related to web development.
 * ⚡ Programmer all day, every day.
